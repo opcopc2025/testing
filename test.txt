@@ -1,1 +1,1 @@
-whoami
+open /System/Applications/Calculator.app
